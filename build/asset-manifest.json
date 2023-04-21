@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.cb9c222f.css",
+    "main.js": "/static/js/main.dbd46b94.js",
+    "static/js/787.466df073.chunk.js": "/static/js/787.466df073.chunk.js",
+    "static/media/banner-sobre.png": "/static/media/banner-sobre.e958a86cc903592d30f0.png",
+    "static/media/sorveteria.jpg": "/static/media/sorveteria.12b4dd18376307d7b514.jpg",
+    "static/media/banner-sabores.jpg": "/static/media/banner-sabores.0e325a982b455ed9676c.jpg",
+    "static/media/banner-home.png": "/static/media/banner-home.a58e6b19f3f9b4c9c3dc.png",
+    "static/media/sobre-image.jpg": "/static/media/sobre-image.64e81a3845601828d9e6.jpg",
+    "index.html": "/index.html",
+    "main.cb9c222f.css.map": "/static/css/main.cb9c222f.css.map",
+    "main.dbd46b94.js.map": "/static/js/main.dbd46b94.js.map",
+    "787.466df073.chunk.js.map": "/static/js/787.466df073.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cb9c222f.css",
+    "static/js/main.dbd46b94.js"
+  ]
+}
